@@ -1,4 +1,4 @@
 [submodule "cryptoTools"]
 	path = cryptoTools
-	url = https://github.com/paritybit-ai/cryptoTools.git
+	url = https://github.com/chongloubbt/cryptoTools.git
 	branch = bbt_master
